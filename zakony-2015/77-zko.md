@@ -1,0 +1,8 @@
+# О внесении изменений в Закон Курской области «О приватизации государственного имущества Курской области»
+Document type: Закон
+Number: 77-ЗКО
+Date signed: 2015-09-09
+Publication date: 2015-09-11
+Publication number: 4600201509110023
+Signing body: Курская область
+Official publication page: http://publication.pravo.gov.ru/Document/View/4600201509110023
