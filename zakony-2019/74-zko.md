@@ -1,0 +1,8 @@
+# Об установлении на 2020 год коэффициента, отражающего региональные особенности рынка труда
+Document type: Закон
+Number: 74-ЗКО
+Date signed: 2019-09-12
+Publication date: 2019-09-17
+Publication number: 4600201909170012
+Signing body: Курская область
+Official publication page: http://publication.pravo.gov.ru/Document/View/4600201909170012
