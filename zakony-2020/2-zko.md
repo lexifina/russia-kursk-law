@@ -1,0 +1,8 @@
+# О внесении изменений в Закон Курской области «О государственной гражданской службе Курской области»
+Document type: Закон
+Number: 2-ЗКО
+Date signed: 2020-02-18
+Publication date: 2020-02-21
+Publication number: 4600202002210002
+Signing body: Курская область
+Official publication page: http://publication.pravo.gov.ru/Document/View/4600202002210002
