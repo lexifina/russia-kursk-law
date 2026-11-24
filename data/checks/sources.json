@@ -1,0 +1,29 @@
+{
+ "sources": [
+  {
+   "id": "pravo-kursk",
+   "kind": "legislation",
+   "name": {
+    "en": "Kursk Oblast: Official Internet Portal of Legal Information (region46)",
+    "ru": "Kursk Oblast: Официальный интернет-портал правовой информации (region46)"
+   },
+   "url": "http://publication.pravo.gov.ru/documents/block/region46",
+   "reads": {
+    "en": "every page of the subject's law-type documents (metadata API), each check",
+    "ru": "все страницы списка законов субъекта (API метаданных), при каждой проверке"
+   },
+   "folders": [
+    "zakony-<year>/"
+   ],
+   "schedule": "daily",
+   "state": "watched",
+   "corpora": [
+    "russia/kursk/acts"
+   ],
+   "interval": 3.2,
+   "repo": "russia-kursk-law",
+   "group": "pravo",
+   "tz": "Europe/Moscow"
+  }
+ ]
+}
