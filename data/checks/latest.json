@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T14:10:09Z",
+ "generated": "2026-11-25T07:00:34Z",
  "latest": {
   "pravo-kursk|russia/kursk/acts": {
    "attempt": 1,
@@ -21,11 +21,11 @@
     "repo": 1474,
     "source_in_scope": 1474
    },
-   "check_id": "ru-pravo-kursk-20261124T140853Z",
+   "check_id": "ru-pravo-kursk-20261125T061140Z",
    "commits": null,
    "corpus": "russia/kursk/acts",
    "error": null,
-   "finished": "2026-11-24T14:10:08Z",
+   "finished": "2026-11-25T06:12:56Z",
    "flags": [],
    "gap": 0,
    "note": "publication.pravo.gov.ru, block region46: 1474 law-type documents listed (every page read); 1474 held here; 0 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
@@ -45,7 +45,7 @@
    },
    "snapshot": "1474 law-type documents in block region46; newest published 2026-09-24",
    "source": "pravo-kursk",
-   "started": "2026-11-24T14:08:53Z",
+   "started": "2026-11-25T06:11:40Z",
    "unexplained": 0,
    "update": {
     "parts": []
