@@ -1,0 +1,89 @@
+{
+ "parts": {
+  "30-zakony-2014.json": {
+   "acts": [
+    "zakony-2014"
+   ],
+   "sha256": "5d3b0283aa3ec5a4942f36585d9befdc00853f6939de60836247f5f62de22a86"
+  },
+  "30-zakony-2015.json": {
+   "acts": [
+    "zakony-2015"
+   ],
+   "sha256": "2a31143398935a5b649dbc7259a1e3754356a1a9b880bd9bf0bc37509ddcac21"
+  },
+  "30-zakony-2016.json": {
+   "acts": [
+    "zakony-2016"
+   ],
+   "sha256": "06a56616940aed4eebe5f7548d927f60f8eb60d3c401610a2fbc1a2e4537790e"
+  },
+  "30-zakony-2017.json": {
+   "acts": [
+    "zakony-2017"
+   ],
+   "sha256": "b0e4247763d7da4efb89fc00bdfad7e7f698e543524074a185d9ef63d1c100d7"
+  },
+  "30-zakony-2018.json": {
+   "acts": [
+    "zakony-2018"
+   ],
+   "sha256": "aaed9453c17c9662b727d580ca0a498a51de06e51678aaa4b218d4280f6ad882"
+  },
+  "30-zakony-2019.json": {
+   "acts": [
+    "zakony-2019"
+   ],
+   "sha256": "1833a57aa631d62ac06cfb0acf951266f82c6490cfe4679e4765bad54f77878a"
+  },
+  "30-zakony-2020.json": {
+   "acts": [
+    "zakony-2020"
+   ],
+   "sha256": "ee32ffd1fa2094349a3baf74f7846a368e0e9dec3f5024ee1dd30dc209b68612"
+  },
+  "30-zakony-2021.json": {
+   "acts": [
+    "zakony-2021"
+   ],
+   "sha256": "49b038f58a8a24ae63fd59cd68a6076c0834ad8acdc9bc63f8f235cef92991e0"
+  },
+  "30-zakony-2022.json": {
+   "acts": [
+    "zakony-2022"
+   ],
+   "sha256": "4b5b68b21966d6bc03a5a3b475731faa2917d9cf1cf19f540df8a17a72bb7b72"
+  },
+  "30-zakony-2023.json": {
+   "acts": [
+    "zakony-2023"
+   ],
+   "sha256": "6bc62de543971dfc08ce4249aea3a0b8864e546a2417efd05be8f58ff5d5feb4"
+  },
+  "30-zakony-2024.json": {
+   "acts": [
+    "zakony-2024"
+   ],
+   "sha256": "c7ec880a29643eeb7c8f5b990165196eca2d126d52b63c30a8693c293958d11f"
+  },
+  "30-zakony-2025.json": {
+   "acts": [
+    "zakony-2025"
+   ],
+   "sha256": "3770e81705b5a3fa2ea49ba8940b3bc4b61a6a36a322c9b52aa8157898940300"
+  },
+  "30-zakony-2026.json": {
+   "acts": [
+    "zakony-2026"
+   ],
+   "sha256": "7987a489eb326a6b488b85ed7f44f640c09c782b04cb8a3a1fac745c38a4e970"
+  },
+  "95-watch-20261127-001.json": {
+   "acts": [
+    "zakony-2026"
+   ],
+   "sha256": "f09f5a4c176dc01a2b87c2c28d46b76b27bf53a9472f02221373074272b28a96"
+  }
+ },
+ "schema": 1
+}

@@ -1,11 +1,13 @@
 # Kursk Oblast: catalogue of the laws published in 2026 (facts only, no law text)
 
-Законы 2026 · 22 versions, from 2026-01-30 (latest in force: 2026-09-24) · <http://publication.pravo.gov.ru/documents/block/region46>
+Законы 2026 · 23 versions, from 2026-01-30 (latest in force: 2026-11-26) · <http://publication.pravo.gov.ru/documents/block/region46>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Закон № 1-ЗКО | [1-zko.md](1-zko.md) | 0 |  |
 | Закон № 10-ЗКО | [10-zko.md](10-zko.md) | 1 | 2026-03-03 |
+| Закон № 100-ЗКО | [100-zko.md](100-zko.md) | 1 | 2026-11-26 |
+| Закон № 101-ЗКО | [101-zko.md](101-zko.md) | 1 | 2026-11-26 |
 | Закон № 11-ЗКО | [11-zko.md](11-zko.md) | 1 | 2026-03-03 |
 | Закон № 12-ЗКО | [12-zko.md](12-zko.md) | 1 | 2026-03-03 |
 | Закон № 13-ЗКО | [13-zko.md](13-zko.md) | 1 | 2026-03-06 |
@@ -101,3 +103,5 @@
 | Закон № 95-ЗКО | [95-zko.md](95-zko.md) | 1 | 2026-09-23 |
 | Закон № 96-ЗКО | [96-zko.md](96-zko.md) | 1 | 2026-09-23 |
 | Закон № 97-ЗКО | [97-zko.md](97-zko.md) | 1 | 2026-09-24 |
+| Закон № 98-ЗКО | [98-zko.md](98-zko.md) | 1 | 2026-11-26 |
+| Закон № 99-ЗКО | [99-zko.md](99-zko.md) | 1 | 2026-11-26 |

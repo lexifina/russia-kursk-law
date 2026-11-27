@@ -1,0 +1,17 @@
+{
+ "corpus": "ru/kursk/acts",
+ "path": "russia/kursk/acts",
+ "scope": "selected-acts",
+ "acts": 13,
+ "future_branch": "future",
+ "publisher": "Официальный интернет-портал правовой информации (publication.pravo.gov.ru)",
+ "name": "Kursk Oblast",
+ "language": "ru",
+ "coverage": "13 acts of Kursk Oblast with every dated version the source gives (266 versions), in force from 2014-11-24 to 2026-10-30",
+ "history": "in-force",
+ "history_from": "2014-11-24",
+ "record_to": "2026-10-30",
+ "checked_on": "2026-11-27",
+ "record_note": "Texts from Официальный интернет-портал правовой информации (publication.pravo.gov.ru).",
+ "in_force_trailer": "In-force"
+}
